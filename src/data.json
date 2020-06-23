@@ -1,0 +1,31 @@
+
+[
+ {
+ "title": "Mem1",
+ "upvotes": 6,
+ "downvotes": 0,
+ "img": "./src/img/image1.jpg"
+ },
+ {
+    "title": "Mem1",
+    "upvotes": 6,
+    "downvotes": 0,
+    "img": "./src/img/image2.jpg"
+ },
+ {
+"title": "Mem3",
+ "upvotes": 6,
+ "downvotes": 0,
+ "img": "./src/img/image3.jpg"
+},
+{"title": "Mem4",
+"upvotes": 6,
+"downvotes": 0,
+"img": "src/img/image4.jpg"
+},
+{"title": "Mem5",
+"upvotes": 6,
+"downvotes": 0,
+"img": "src/img/image5.jpg"
+}
+]
